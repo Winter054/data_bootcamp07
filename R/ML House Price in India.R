@@ -1,3 +1,6 @@
+# Regression model predicting house prices in India
+# Dataset: https://data.world/dataindianset2000/house-price-india
+
 install.packages("tidyverse")
 install.packages("caret")
 
